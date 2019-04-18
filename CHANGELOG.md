@@ -1,7 +1,7 @@
 Scalyr Agent 2 Changes By Release
 =================================
 
-## 2.0.45.pre46.1 "Kelowna" - Apr 5, 2019
+## 2.0.46 "Kelowna" - Apr 5, 2019
 
 <!---
 Packaged by Edward Chee <echee@scalyr.com> on Apr 18, 2019 21:00 -0700
